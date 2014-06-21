@@ -1,0 +1,3 @@
+A small test project to show how to get Kivy to send
+commands to Blender via sockets. 
+
